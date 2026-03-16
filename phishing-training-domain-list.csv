@@ -271,6 +271,7 @@ securegateway-access.com,metrics,rainnetworks
 securelinkedin.com,metrics,huntress
 securelinkedin.com,metrics,mycurricula
 security-reminders.com,metrics,pii-protect
+security-unauthorised-request.com,metrics,phriendlyphishing
 security-updater.com,metrics,huntress
 securityawareness.cc,metrics,infosecinstitute
 securitydirectapp.com,metrics,outthink
