@@ -1,5 +1,6 @@
 domain,collected_data,owner
 073202.com,metrics,iag
+084793.com,metrics.cofense
 1nfoclient.fr,metrics,sibermate
 304838.com,metrics,iag
 365-office.net,metrics,infosecinstitute
@@ -38,6 +39,7 @@ bulletinshr.com,metrics,iag
 businessnotice.org,metrics,huntress
 calendar-invites.com,metrics,infosecinstitute
 cardpaysecurity.org,metrics,phriendlyphishing
+careerpost.us,metrics.cofense
 centre-assistance.fr,metrics,sibermate
 centro-asistencia.com,metrics,sibermate
 channelhub.online,metrics,cybeready
@@ -91,6 +93,7 @@ e-service.org,credentials,trendmicro
 e-serviceparts.info,credentials,trendmicro
 e-vpnn.com,metrics,TitanHQ
 ecardalert.com,metrics,cofense
+ecards.pictures,metrics.cofense
 ecompliants.com,metrics,TitanHQ
 edoctransfer.com,metrics,cofense
 edufinancial.org,metrics,RedHerring
@@ -111,6 +114,7 @@ evpnn.com,metrics,TitanHQ
 ez-sendfile.net,metrics,rainnetworks
 f1nancier.com,metrics,sibermate
 facilities-communications.com,metrics,cofense
+facture-rapide.fr,metrics.cofense
 fakebookalerts.live,metrics,sophos
 federalnewsmagazine.com,metrics,cofense
 feedback-collect.com,metrics,huntress
@@ -122,6 +126,7 @@ financialdept1.com,metrics,sibermate
 financialdept1.de,metrics,sibermate
 financialstaff.co.uk,metrics,sibermate
 firmlegal.de,metrics,sibermate
+forkandtablemag.com,metrics.cofense
 formssation.life,credentials,Trendmicro
 forupsite.com,credentials,trendmicro
 fotocloud.net,metrics,cyberguru
@@ -187,7 +192,7 @@ ithelpdeskweb.co.uk,metrics,sibermate
 ithilfen.de,metrics,sibermate
 ithlpdesks.com,metrics,sibermate
 itpatches.com,metrics,Seneca
-itsecuremessages.com,metrics,cofensecofense
+itsecuremessages.com,metrics,cofense
 itsecuritymessages.com,metrics,iag
 itserverhosts.com,metrics,cofense
 itsupp0rt.de,metrics,sibermate
@@ -220,6 +225,7 @@ mlcrosoft.live,metrics,pii-protect
 multi-factor.link,metrics,hoxhunt
 my-it-solution.net,metrics,infosecinstitute
 mycartcheck-out.com,metrics,rainnetworks
+mycorporate-rewards.com,metrics.cofense
 mypasschange.com,metrics,rainnetworks
 myportalonline.org,metrics,rainnetworks
 net-link-secure.com,metrics,rainnetworks
@@ -246,6 +252,7 @@ passwordsnotification.com,metrics,huntress
 payment-process.com,metrics,huntress
 pcsupport.fr,metrics,sibermate
 peoplesoftsdcoe.com,metrics,RedHerring
+perdida-de-seguimiento-del-paquete.mx,metrics.cofense
 pessoleldept.com,metrics,sibermate
 phishing.guru,metrics,knowbe4
 pii-protect.com,metrics,pii-protect
@@ -316,7 +323,7 @@ usbank.website,metrics,sibermate
 uspost.online,metrics,sibermate
 uspost.store,metrics,sibermate
 verifytoken.com,metrics,cofense
-webaccess-alert.com,metrics,cofensecofense
+webaccess-alert.com,metrics,cofense
 webaccess-email.com,metrics,cofense
 webaccess-email.mx,metrics,cofense
 webaccess-email.org,metrics,cofense
