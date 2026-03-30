@@ -246,6 +246,7 @@ onlineservicenetwork.com,credentials,trendmicro
 onlineservicetec.com,credentials,trendmicro
 onlineservicetech.com,credentials,trendmicro
 onlineservicetech.website,credentials,trendmicro
+opsupportsystems.com,metrics,cofense
 order-processed.com,metrics,TitanHQ
 orders-processed.com,metrics,TitanHQ
 packagetrackingportal.com,metrics,pii-protect
@@ -316,6 +317,7 @@ theteamsapp.com,metrics,UnionEntities
 timeforsurveys.com,metrics,cofense
 tinylink.eu,metrics,cofense
 tracehack.pro,metrics,infosecinstitute
+travelalrets.com,metrics,cofense
 trustedentity.com,metrics,phriendlyphishing
 uniondistrict.net,metrics,RedHerring
 updateantivir.us,metrics,iag
